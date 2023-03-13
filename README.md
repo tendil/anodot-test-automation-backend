@@ -1,7 +1,6 @@
 ## Test Plan:
 
 ---
-
 ## The following test cases are made for example:
 * Make sure the page loads successfully
 * Check if the temperature conversion function is working properly
