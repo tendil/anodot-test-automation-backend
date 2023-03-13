@@ -1,6 +1,5 @@
 ## Test Plan:
 
----
 ## The following test cases are made for example:
 * Make sure the page loads successfully
 * Check if the temperature conversion function is working properly
@@ -13,8 +12,6 @@
 * Make sure the page has a drop-down list of units of measure "before"
 * Verify that pressing the "convert" button returns the converted temperature value.
 * Verify that when converting a negative temperature value, the correct converted value is displayed.
-
----
 
 ## My suggestions for test cases and their division into positive and negative tests:
 
@@ -46,8 +43,6 @@
 * Make sure that selecting the same unit of measure "from" and "to" results in an error message.
 
 ## Some suggestions
-
----
 
 #### Verify that the temperature conversion is accurate
 * a. Enter a temperature value in Celsius and convert it to Fahrenheit
